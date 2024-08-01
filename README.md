@@ -1,4 +1,5 @@
-![logo](https://github.com/TheShyamTripathi/TheShyamTripathi/blob/main/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner%20(1).png)
+[![Video Thumbnail](https://github.com/TheShyamTripathi/TheShyamTripathi/blob/main/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner%20(1).png)](https://github.com/TheShyamTripathi/TheShyamTripathi/blob/main/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner.mp4)
+
 <h1 align="center">Hi 👋, It's Shyam Tripathi</h1>
 <h3 align="center">A passionate CSE Student Of Amrita School Of Computing, Chennai</h3>
 
