@@ -5,7 +5,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" height="280" />
 </p>
 
-[via GIPHY](https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC)
+[](https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC)
 
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
