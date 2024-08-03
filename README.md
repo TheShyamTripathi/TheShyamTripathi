@@ -1,5 +1,5 @@
 ![logo](https://github.com/TheShyamTripathi/TheShyamTripathi/blob/main/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner%20(1).png)
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=theshyamtripathi&label=Profile%20views&color=0e75b6&style=flat" alt="kritikaagrahari" /> </p>
 <h1 align="center">Hi 👋, It's Shyam Tripathi</h1>
 <h3 align="center">A passionate CSE Student Of Amrita School Of Computing, Chennai</h3>
 
