@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, It's Shyam Tripathi</h1>
 <h3 align="center">A passionate CSE Student Of Amrita School Of Computing, Chennai</h3>
 
-<p align="left">
+<p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" height="280" />
 </p>
 
