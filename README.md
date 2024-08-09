@@ -81,6 +81,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theshyamtripathi&" alt="theshyamtripathi" /></p>
 
+[](https://github-contributor-stats.vercel.app/api?username=TheShyamTripathi&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 <!---
 TheShyamTripathi/TheShyamTripathi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
