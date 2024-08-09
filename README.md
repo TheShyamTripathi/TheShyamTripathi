@@ -86,7 +86,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theshyamtripathi&" alt="theshyamtripathi" /></p>
 
-![](https://github-contributor-stats.vercel.app/api?username=TheShyamTripathi&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=TheShyamTripathi&limit=5&theme=light&combine_all_yearly_contributions=true)
 
 
 <!---
