@@ -4,10 +4,14 @@
 <h3 align="center">A passionate CSE Student Of Amrita School Of Computing, Chennai</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" height="280" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" height="280" align="right" />
+  <div style="display: inline-block; vertical-align: middle; text-align: left;">
+    <h3>✍️ Random Dev Quote</h3>
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  </div>
 </p>
 
-[](https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC)
+
 
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
