@@ -4,12 +4,13 @@
 <h3 align="center">A passionate CSE Student Of Amrita School Of Computing, Chennai</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" height="280" align="right" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" height="280" style="float: right; margin-left: 20px;" />
   <div style="display: inline-block; vertical-align: middle; text-align: left;">
     <h3>✍️ Random Dev Quote</h3>
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
   </div>
 </p>
+
 
 
 
