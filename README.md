@@ -82,21 +82,21 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=theshyamtripathi&show_icons=true&locale=en&layout=compact" alt="theshyamtripathi" />
     &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=theshyamtripathi&show_icons=true&locale=en" alt="theshyamtripathi" />
 </p>
-<div align="center" style="margin-bottom: 20px;">
+<p align="center" style="margin-bottom: 50px;">
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TheShyamTripathi&theme=vue&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Commits Languages" style="margin: 10px;"/>
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TheShyamTripathi&theme=vue&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Repo Languages" style="margin: 10px;"/>
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TheShyamTripathi&theme=vue&utcOffset=5.30" height="180em" alt="Time Graph" style="margin: 10px;"/>
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TheShyamTripathi&theme=vue" height="180em" alt="Commitments" style="margin: 10px;"/>
-</div>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TheShyamTripathi&theme=vue" height="180em" alt="Commitments" style="margin: 30px;"/>
+</p>
 
 
 
 
-<div><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theshyamtripathi&" alt="theshyamtripathi"  height="180em" /></div>
+<p style="margin: 50px;"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theshyamtripathi&" alt="theshyamtripathi"  /></p>
 
 ![](https://github-contributor-stats.vercel.app/api?username=TheShyamTripathi&limit=5&theme=light&combine_all_yearly_contributions=true)
 
-
+<p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=Go+to+Top&color=0b6ab3&style=flat&logo" alt="Go to Top" /></a></p>
 <!---
 TheShyamTripathi/TheShyamTripathi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
