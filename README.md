@@ -33,7 +33,7 @@
   <a href="https://twitter.com/@shyamtripathi04" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@shyamtripathi04" height="30" width="40" />
   </a>
-  <a href="https://linkedin.com/in/shyam tripathi" target="blank">
+  <a href="https://linkedin.com/in/shyamtripathi-tech" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shyam tripathi" height="30" width="40" />
   </a>
   <a href="https://kaggle.com/shyamtripathi373" target="blank">
